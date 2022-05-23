@@ -1,5 +1,5 @@
 /*
-› Create By @RIY
+› Create By @ChY
 › Base Ori @DikaArdnt
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
@@ -954,13 +954,13 @@ exports.thanksto = () => {
 	return`
   *THANKS TO*
   *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+  *≻* Fira
+  *≻* Andiya
+  *≻* Nadya
+  *≻* Rifa
+  *≻* Chika
+  *≻* Ozy
+  *≻* Nissel
+  *≻* Ayunda
 `
 }
