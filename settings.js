@@ -1,5 +1,5 @@
 /*
-› Create By @ChY
+› Create By @Firahhe
 › Base Ori @DikaArdnt
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
@@ -29,7 +29,7 @@ global.ownernomer = '6288225916922' //ubah jadi nomor mu, note tanda ' gausah di
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Fira' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = 'Firlx' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = Fira' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.footer = 'Fira' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
